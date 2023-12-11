@@ -60,7 +60,19 @@ header{
 }
 #title3 hr{
 	height: 6px;
-	color: #9F58AD;
+	color: #AF4A4D;
+}
+
+#title5{
+	padding: 100px 0px 20px 0px;
+	text-align: center;
+	color: #AF4A4D;
+	background-color: #71001E;
+	font-size: 40px;
+}
+#title5 hr{
+	height: 6px;
+	color: #AF4A4D;
 }
 
 #logos{
@@ -128,6 +140,12 @@ header{
 	text-align: center;
 	color: #560103;
 	background-color: #560103;
+}
+
+#animacion{
+	background-color: #71001E;
+	align-content: center;
+	text-align: center;
 }
 
 #title4{
